@@ -1,2 +1,2 @@
 # winsplice
-Splicing WINAPI functions, using templates of functions
+Splicing WINAPI functions by templates, with using api from Zer0 : https://github.com/Zer0Memory/APIHook
